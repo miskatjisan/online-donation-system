@@ -1,0 +1,88 @@
+  nav{
+            background-color: #2378e9;
+            margin-bottom: 5px;
+        }
+        .navbar-brand{
+            font-size: 60px;
+            font-weight: 1000;
+            color: #333;
+        }
+        .navbar-brand2{
+            font-size: 24px;
+            font-weight: bold;
+            color: #fff;
+            text-transform: uppercase;
+            margin-left: -1%;
+        }
+        .navbar-nav{
+            margin-left: 30% !important;
+        }
+        .nav-item{
+            margin:5px;
+            padding: 5px;
+        }
+        .nav-item:hover{
+            background-color: #0656c1;
+           
+        }
+        .nav-link{
+            color: #333;
+            font-weight: bold;
+            font-size: 22px;
+        }
+        .nav-link:hover{
+            color: #fff;
+            font-weight: bold;
+        }
+        .carousel-item img{
+            height:  400px !important;
+        }
+
+        .home-title{
+            background: #2378e9;
+        }
+        .home-title h2{
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .card img{
+            height: 200px!important;
+
+        }
+        .footer{
+            background: #2378e9;
+
+        }
+        .footer .nav .nav-item .nav-link {
+            color: #fff !important;
+        }
+        .footer h5{
+            color: #333 !important;
+            font-weight: bold;
+            background-color: #2378e9;
+            padding: 5px;
+            text-align: center;
+            font-size: 25px;
+            
+        }
+        .footer p{
+            color: #fff !important;
+            
+        }
+
+        /* Login /Registration */
+
+        .gradient-custom {
+            /* fallback for old browsers */
+            background: #6a11cb;
+            
+            /* Chrome 10-25, Safari 5.1-6 */
+            background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+            
+            /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+            }
+
+
+.donate{color: #000;overflow-x: hidden;height: 100%;background-image: url("https://i.imgur.com/GMmCQHC.png");background-repeat: no-repeat;background-size: 100% 100%}.card{padding: 30px 40px;margin-top: 60px;margin-bottom: 60px;border: none !important;box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2)}.blue-text{color: #00BCD4}.form-control-label{margin-bottom: 0}input, textarea, button{padding: 8px 15px;border-radius: 5px !important;margin: 5px 0px;box-sizing: border-box;border: 1px solid #ccc;font-size: 18px !important;font-weight: 300}input:focus, textarea:focus{-moz-box-shadow: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;border: 1px solid #00BCD4;outline-width: 0;font-weight: 400}.btn-block{text-transform: uppercase;font-size: 15px !important;font-weight: 400;height: 43px;cursor: pointer}.btn-block:hover{color: #fff !important}button:focus{-moz-box-shadow: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;outline-width: 0}
